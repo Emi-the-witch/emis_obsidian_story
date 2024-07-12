@@ -29,8 +29,8 @@
 	[[Races/Lamia\|Lamia]]
 	
 [[Races/Uncivilized Races\|Uncivilized Races]]
-	Slime 
-	Harpies
-	Alraune
-	Dryad
-	Fungifolk
+	[[Races/Slime\|Slime]] 
+	[[Races/Harpies\|Harpies]]
+	[[Races/Alraune\|Alraune]]
+	[[Races/Dryad\|Dryad]]
+	[[Races/Fungifolk\|Fungifolk]]
