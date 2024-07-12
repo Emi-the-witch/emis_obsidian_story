@@ -13,7 +13,12 @@ Enjoying her newfound ability to pay for basic necessities as a doctor, Lyra is 
 
 Her signature outfit is the only decent quality one she has, and she uses magic to clean and mend it if it manages to tear during her walks. The outfit contains a white blouse, black corset, and a red, knee-length skirt. Lyra is over 6 feet tall, if you measure from her ears, 5' 9" if you don't. She has long blonde hair down to her butt, and her tail could almost make you think her hair reaches down to her ankles if not for the fact her hair is curly and her tail is not.
 
-Lyra is Wolfkin, part of [[Races/Civilized Races#Beastkin\|Beastkin]] race.
+Lyra is Wolfkin, part of [[Races/Beastkin\|Beastkin]] race.
 
-![Lyra Lumin2.png](/img/user/Characters/Images/Lyra%20Lumin2.png)
-![Lyra Lumin3.png](/img/user/Characters/Images/Lyra%20Lumin3.png)![Lyra Lumin4.png](/img/user/Characters/Images/Lyra%20Lumin4.png)![Lyra Lumin5.png](/img/user/Characters/Images/Lyra%20Lumin5.png)![Lyra Lumin6.png](/img/user/Characters/Images/Lyra%20Lumin6.png)![Lyra Lumin.png](/img/user/Characters/Images/Lyra%20Lumin.png)
+
+
+| ![Lyra Lumin2.png](/img/user/Characters/Images/Lyra%20Lumin2.png) | ![Lyra Lumin3.png](/img/user/Characters/Images/Lyra%20Lumin3.png) |
+| -------------------- | -------------------- |
+| ![Lyra Lumin4.png](/img/user/Characters/Images/Lyra%20Lumin4.png) | ![Lyra Lumin.png](/img/user/Characters/Images/Lyra%20Lumin.png)  |
+| ![Lyra Lumin5.png](/img/user/Characters/Images/Lyra%20Lumin5.png) | ![Lyra Lumin6.png](/img/user/Characters/Images/Lyra%20Lumin6.png) |
+

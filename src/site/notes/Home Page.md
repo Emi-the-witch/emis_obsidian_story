@@ -8,6 +8,7 @@
 [[Characters/Kaida Dellarine Marcella\|Kaida Dellarine Marcella]]
 [[Characters/Estella Vale\|Estella Vale]]
 [[Characters/Daisy\|Daisy]]
+[[Characters/Rhona Ironheart\|Rhona Ironheart]]
 
 ## Locations:
 [[Locations/Lagrea/Lagrea\|Lagrea]]
