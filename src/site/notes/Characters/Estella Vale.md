@@ -10,7 +10,7 @@ When [[Characters/Lyra Lumin\|Lyra Lumin]] and [[Characters/Kaida Dellarine Marc
 
 Estella has scales on various parts of her body, easily covered up by her clothes, including the base of her tail. 
 
-Estella is actually a mix of tigerkin and [[Races/Dragonkin\|Dragonkin]], and the reason why she's being chased is because [[Locations/Lagrea/Caeloria\|Caelorian]] mercenaries wanted to capture the 'weak dragonkin' to protect their own city with the deterrence of having a dragon in the city. 
+Estella is actually a mix of tigerkin and [[Races/Dragonkin\|Dragonkin]], and the reason why she's being chased is because [[Locations/Lagrea/Caeloria\|Caelorian]] mercenaries wanted to capture the 'weak [[Races/Dragonkin\|dragonkin]]' to protect their own city with the deterrence of having a dragon in the city. 
 
 After capturing Estella, she managed to break out, but was stabbed in the back to prevent her from escaping. 
 
