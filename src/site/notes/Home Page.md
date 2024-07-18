@@ -4,7 +4,7 @@
 
 
 
-| <div style="width:200px">Characters:</div> | <div style="width:200px">Locations:</div> | <div style="width:200px">Races:</div> | <div style="width:200px">Groups:</div> |
+| <div style="width:150px">Characters:</div> | <div style="width:150px">Locations:</div> | <div style="width:150px">Races:</div> | <div style="width:150px">Groups:</div> |
 | :----------------------------------------- | :---------------------------------------- | :------------------------------------ | :------------------------------------- |
 | [[Characters/Lyra Lumin\|Lyra Lumin]]                             | [[Locations/Lagrea/Lagrea\|Lagrea]]                                | [[Races/Civilized Races\|Civilized Races]]                   |    [[Groups/Eastern Fleet\|Eastern Fleet]]                                    |
 | [[Characters/Kaida Dellarine Marcella\|Kaida Dellarine Marcella]]               | -[[Locations/Lagrea/Caeloria\|Caeloria]]                             | [[Races/Humans\|Humans]]                            |   [[Groups/Zephyr\|Zephyr]]                                     |
